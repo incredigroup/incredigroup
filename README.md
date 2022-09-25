@@ -30,7 +30,7 @@ I pride myself on being detail-oriented, analytical, and driven.
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/ionic-4-1175016.png" width="100"></td>
   </tr>
   <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-3629474.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/java-59-1174952.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/django-11-1175036.png" width="100"></td>
