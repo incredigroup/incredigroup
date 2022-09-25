@@ -60,7 +60,7 @@ I pride myself on being detail-oriented, analytical, and driven.
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;private: https://???.com </p>
 
 <h4>&nbsp; 2. Typescript + Solidity:</h4>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https:/esportsref.com </p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://esportsref.com </p>
 
 <h4>&nbsp; 3. Laravel + Vue Projects:</h4>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://cleaneatz.com </p>
