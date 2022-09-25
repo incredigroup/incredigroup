@@ -43,8 +43,6 @@ I pride myself on being detail-oriented, analytical, and driven.
     <td><img src="https://cdn.iconscout.com/icon/free/png-64/github-170-1175028.png" width="100"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/sass-13-1175092.png" width="100"></td>
   </tr>
-  <tr>
-  </tr>
   </table>
 
 <h2 font-weight="bold">Website List That I Developed</h2>
