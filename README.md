@@ -7,8 +7,8 @@
 </p>
 <img align="right" width="300" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
 <p>
-Enterprising, enthusiastic, and results-driven full stack developer with  6 years of success in blending the art of design with skill of programming to deliver an engaging user experience through efficient website development, proactive feature optimization, and relentless debugging.
-From early beginnings since 2016 and Building many frontends and useful tools to more complex web applications, which I encountered working for several companies, my goal is always, to get useful experience and provide the best possible solution for solving problems.
+Enterprising, enthusiastic, and results-driven full stack developer with  6 years of success in blending the art of design with skill of programming to deliver an engaging user experience through efficient website development, proactive feature optimization, and relentless debugging.<br/>
+From early beginnings since 2016 and Building many frontends and useful tools to more complex web applications, which I encountered working for several companies, my goal is always, to get useful experience and provide the best possible solution for solving problems.</br>
 I pride myself on being detail-oriented, analytical, and driven.
 </p>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=justin424.justin424" />
@@ -53,3 +53,6 @@ I pride myself on being detail-oriented, analytical, and driven.
   </tr>
 </table>
 
+<h2 font-weight="bold">Website Links That I Developed</h2>
+
+<p> https://cleaneatz.com </p>
