@@ -55,5 +55,5 @@ I pride myself on being detail-oriented, analytical, and driven.
 
 <h2 font-weight="bold">Website Links That I Developed</h2>
 
-Laravel + Vue Projects:
-<p> https://cleaneatz.com </p>
+<h5>Laravel + Vue Projects:</h5>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://cleaneatz.com </p>
