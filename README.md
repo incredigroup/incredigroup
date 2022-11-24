@@ -44,19 +44,3 @@ I pride myself on being detail-oriented, analytical, and driven.
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/sass-13-1175092.png" width="100"></td>
   </tr>
   </table>
-
-<h2 font-weight="bold">Website List That I Developed</h2>
-
-<h4>&nbsp; 1. Laravel + React Projects:</h4>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;private: https://???.com </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;private: https://???.com </p>
-
-<h4>&nbsp; 2. Typescript + Solidity:</h4>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://esportsref.com </p>
-
-<h4>&nbsp; 3. Laravel + Vue Projects:</h4>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://cleaneatz.com </p>
-
-<h4>&nbsp; 4. Express + React Projects:</h4>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;private: https://???.com </p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;private: https://???.com </p>
