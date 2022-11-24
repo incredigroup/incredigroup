@@ -45,5 +45,5 @@ I pride myself on being detail-oriented, analytical, and driven.
   </tr>
   </table>
 
-  <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=incredigroup&bg_color=#22272e&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false"/></a>
+  <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=incredigroup&bg_color=22272e&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false"/></a>
 <br/>
