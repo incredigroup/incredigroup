@@ -1,7 +1,7 @@
 
 <h2 font-weight="bold">About Me</h2>
 <p align="center">
-  <a href="https://github.com/Dark78921">
+  <a href="https://github.com/incredigroup">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20enthusiastic%20and%20Results-driven%20Senior%20Web3%20Engineer;%2B6%20years%20of%20hands-on%20experience;&center=true&width=800&height=45">
   </a>
 </p>
@@ -52,6 +52,3 @@ I pride myself on being detail-oriented, analytical, and driven.
 </div>
 
 <br>
-
-  <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=incredigroup&bg_color=22272e&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false"/></a>
-<br/>
