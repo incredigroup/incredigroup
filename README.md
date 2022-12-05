@@ -45,5 +45,13 @@ I pride myself on being detail-oriented, analytical, and driven.
   </tr>
   </table>
 
+<div class='container' align="center">
+<img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api?username=incredigroup&show_icons=true&theme=dark#gh-dark-mode-only" />
+&nbsp;
+<img style="height: auto; width: 42%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=incredigroup&theme=dark&langs_count=8&layout=compact" /></div>
+</div>
+
+<br>
+
   <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=incredigroup&bg_color=22272e&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false"/></a>
 <br/>
